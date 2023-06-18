@@ -57,6 +57,7 @@ Automatize o envio de mensagens pelo WhatsApp Web usando JavaScript com a biblio
 
 ---
 ### Contribuição
-Contribuições e sugestões são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request para melhorar o código ou adicionar novos recursos.
+Contribuições e sugestões são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request para melhorar os códigos ou adicionar novos recursos.
 
-**Nota:** Certifique-se de ter o Chrome instalado e atualizado em sua máquina, e de que o ChromeDriver esteja no PATH do sistema operacional ou especificado corretamente no script.
+---
+### Nota: Certifique-se de ter o Chrome instalado e atualizado em sua máquina, e de que o ChromeDriver esteja no PATH do sistema operacional ou especificado corretamente no script.
